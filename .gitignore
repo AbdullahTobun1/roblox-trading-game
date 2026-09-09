@@ -1,0 +1,56 @@
+# .gitignore for Roblox Trading Game
+
+# Roblox Studio
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Studio Lock files
+.Roblox
+.vscode/roblox.json
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.directory
+
+# IDE
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# Node/Lua package managers
+node_modules/
+package-lock.json
+yarn.lock
+
+# Roblox Studio autosave
+**AutoSave*
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Test coverage
+coverage/
+.nyc_output
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
