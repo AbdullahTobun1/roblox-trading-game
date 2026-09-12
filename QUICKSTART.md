@@ -50,7 +50,7 @@ code C:\Users\abdit\roblox-trading-game
 
 #### Option A: Create a new GitHub repo (RECOMMENDED)
 ```bash
-cd C:\Users\abdit\roblox-trading-game
+cd C:\Users\abdit\roblox-trading-game 
 
 # Replace YOUR-USERNAME with your GitHub username
 git remote add origin https://github.com/YOUR-USERNAME/roblox-trading-game.git
